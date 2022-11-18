@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HackAtDavidson/static/css/main.d955b4b2.chunk.css",
-    "main.js": "/HackAtDavidson/static/js/main.937f2e2c.chunk.js",
-    "main.js.map": "/HackAtDavidson/static/js/main.937f2e2c.chunk.js.map",
+    "main.js": "/HackAtDavidson/static/js/main.897286e7.chunk.js",
+    "main.js.map": "/HackAtDavidson/static/js/main.897286e7.chunk.js.map",
     "runtime-main.js": "/HackAtDavidson/static/js/runtime-main.d0695085.js",
     "runtime-main.js.map": "/HackAtDavidson/static/js/runtime-main.d0695085.js.map",
     "static/js/2.b18b1911.chunk.js": "/HackAtDavidson/static/js/2.b18b1911.chunk.js",
@@ -32,11 +32,9 @@
     "static/media/interview-cake.37432cbb.jpg": "/HackAtDavidson/static/media/interview-cake.37432cbb.jpg",
     "static/media/ll.fd735495.png": "/HackAtDavidson/static/media/ll.fd735495.png",
     "static/media/logoDavidson.2f42a164.png": "/HackAtDavidson/static/media/logoDavidson.2f42a164.png",
-    "static/media/logoDavidson.b038f371.png": "/HackAtDavidson/static/media/logoDavidson.b038f371.png",
     "static/media/lyin.ce4bedbc.jpg": "/HackAtDavidson/static/media/lyin.ce4bedbc.jpg",
     "static/media/me.20bfabc7.png": "/HackAtDavidson/static/media/me.20bfabc7.png",
     "static/media/moon.73697ab9.png": "/HackAtDavidson/static/media/moon.73697ab9.png",
-    "static/media/pattern4.d7089884.png": "/HackAtDavidson/static/media/pattern4.d7089884.png",
     "static/media/qoom.fb09f9e6.svg": "/HackAtDavidson/static/media/qoom.fb09f9e6.svg",
     "static/media/replit.3c3b0ba7.png": "/HackAtDavidson/static/media/replit.3c3b0ba7.png",
     "static/media/sublime.f9991326.png": "/HackAtDavidson/static/media/sublime.f9991326.png",
@@ -46,6 +44,6 @@
     "static/js/runtime-main.d0695085.js",
     "static/js/2.b18b1911.chunk.js",
     "static/css/main.d955b4b2.chunk.css",
-    "static/js/main.937f2e2c.chunk.js"
+    "static/js/main.897286e7.chunk.js"
   ]
 }
