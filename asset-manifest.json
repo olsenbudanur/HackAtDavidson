@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HackAtDavidson/static/css/main.3830014d.chunk.css",
-    "main.js": "/HackAtDavidson/static/js/main.7c750d0c.chunk.js",
-    "main.js.map": "/HackAtDavidson/static/js/main.7c750d0c.chunk.js.map",
+    "main.js": "/HackAtDavidson/static/js/main.bc4b6ae7.chunk.js",
+    "main.js.map": "/HackAtDavidson/static/js/main.bc4b6ae7.chunk.js.map",
     "runtime-main.js": "/HackAtDavidson/static/js/runtime-main.d0695085.js",
     "runtime-main.js.map": "/HackAtDavidson/static/js/runtime-main.d0695085.js.map",
     "static/js/2.b18b1911.chunk.js": "/HackAtDavidson/static/js/2.b18b1911.chunk.js",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.d0695085.js",
     "static/js/2.b18b1911.chunk.js",
     "static/css/main.3830014d.chunk.css",
-    "static/js/main.7c750d0c.chunk.js"
+    "static/js/main.bc4b6ae7.chunk.js"
   ]
 }
