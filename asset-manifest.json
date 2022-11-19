@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/HackAtDavidson/static/css/main.3830014d.chunk.css",
-    "main.js": "/HackAtDavidson/static/js/main.6d18deb1.chunk.js",
-    "main.js.map": "/HackAtDavidson/static/js/main.6d18deb1.chunk.js.map",
+    "main.js": "/HackAtDavidson/static/js/main.7c750d0c.chunk.js",
+    "main.js.map": "/HackAtDavidson/static/js/main.7c750d0c.chunk.js.map",
     "runtime-main.js": "/HackAtDavidson/static/js/runtime-main.d0695085.js",
     "runtime-main.js.map": "/HackAtDavidson/static/js/runtime-main.d0695085.js.map",
     "static/js/2.b18b1911.chunk.js": "/HackAtDavidson/static/js/2.b18b1911.chunk.js",
@@ -10,39 +10,28 @@
     "index.html": "/HackAtDavidson/index.html",
     "static/css/main.3830014d.chunk.css.map": "/HackAtDavidson/static/css/main.3830014d.chunk.css.map",
     "static/js/2.b18b1911.chunk.js.LICENSE.txt": "/HackAtDavidson/static/js/2.b18b1911.chunk.js.LICENSE.txt",
-    "static/media/1pass.5ab4b9e8.png": "/HackAtDavidson/static/media/1pass.5ab4b9e8.png",
-    "static/media/ACF.6971b921.png": "/HackAtDavidson/static/media/ACF.6971b921.png",
     "static/media/Privacy policy.9854a808.pdf": "/HackAtDavidson/static/media/Privacy policy.9854a808.pdf",
-    "static/media/Ryah.6f561055.jpg": "/HackAtDavidson/static/media/Ryah.6f561055.jpg",
     "static/media/Terms of use.c2255556.pdf": "/HackAtDavidson/static/media/Terms of use.c2255556.pdf",
     "static/media/boy.9e16116b.png": "/HackAtDavidson/static/media/boy.9e16116b.png",
     "static/media/ccad-logo.60282d00.jpeg": "/HackAtDavidson/static/media/ccad-logo.60282d00.jpeg",
-    "static/media/cfc.18f32e55.png": "/HackAtDavidson/static/media/cfc.18f32e55.png",
-    "static/media/echoAR.4b8bc90d.png": "/HackAtDavidson/static/media/echoAR.4b8bc90d.png",
-    "static/media/egg.f445ea46.png": "/HackAtDavidson/static/media/egg.f445ea46.png",
-    "static/media/glimpse.b6f31993.png": "/HackAtDavidson/static/media/glimpse.b6f31993.png",
+    "static/media/davidson.3d8380e7.jpg": "/HackAtDavidson/static/media/davidson.3d8380e7.jpg",
+    "static/media/forest-systems.e1249d73.png": "/HackAtDavidson/static/media/forest-systems.e1249d73.png",
     "static/media/ham-c.8ab7632d.svg": "/HackAtDavidson/static/media/ham-c.8ab7632d.svg",
     "static/media/ham.a63ab4de.svg": "/HackAtDavidson/static/media/ham.a63ab4de.svg",
+    "static/media/hurthub.5744046c.jpg": "/HackAtDavidson/static/media/hurthub.5744046c.jpg",
     "static/media/icons8-dev-post.15a5555a.svg": "/HackAtDavidson/static/media/icons8-dev-post.15a5555a.svg",
     "static/media/icons8-discord.4ccbeee9.svg": "/HackAtDavidson/static/media/icons8-discord.4ccbeee9.svg",
     "static/media/icons8-instagram.89b88306.svg": "/HackAtDavidson/static/media/icons8-instagram.89b88306.svg",
     "static/media/icons8-linkedin-2.524f8b6e.svg": "/HackAtDavidson/static/media/icons8-linkedin-2.524f8b6e.svg",
     "static/media/icons8-mail.650ff70b.svg": "/HackAtDavidson/static/media/icons8-mail.650ff70b.svg",
-    "static/media/interview-cake.37432cbb.jpg": "/HackAtDavidson/static/media/interview-cake.37432cbb.jpg",
-    "static/media/ll.fd735495.png": "/HackAtDavidson/static/media/ll.fd735495.png",
+    "static/media/launch.9a4f37b1.png": "/HackAtDavidson/static/media/launch.9a4f37b1.png",
     "static/media/logoDavidson.2f42a164.png": "/HackAtDavidson/static/media/logoDavidson.2f42a164.png",
-    "static/media/lyin.ce4bedbc.jpg": "/HackAtDavidson/static/media/lyin.ce4bedbc.jpg",
-    "static/media/me.20bfabc7.png": "/HackAtDavidson/static/media/me.20bfabc7.png",
-    "static/media/moon.73697ab9.png": "/HackAtDavidson/static/media/moon.73697ab9.png",
-    "static/media/qoom.fb09f9e6.svg": "/HackAtDavidson/static/media/qoom.fb09f9e6.svg",
-    "static/media/replit.3c3b0ba7.png": "/HackAtDavidson/static/media/replit.3c3b0ba7.png",
-    "static/media/sublime.f9991326.png": "/HackAtDavidson/static/media/sublime.f9991326.png",
-    "static/media/zoha.3b9b6b45.png": "/HackAtDavidson/static/media/zoha.3b9b6b45.png"
+    "static/media/quoin.d5904fea.png": "/HackAtDavidson/static/media/quoin.d5904fea.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d0695085.js",
     "static/js/2.b18b1911.chunk.js",
     "static/css/main.3830014d.chunk.css",
-    "static/js/main.6d18deb1.chunk.js"
+    "static/js/main.7c750d0c.chunk.js"
   ]
 }
