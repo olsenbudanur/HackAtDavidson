@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/HackAtDavidson/static/css/main.c4e4d545.chunk.css",
-    "main.js": "/HackAtDavidson/static/js/main.bc4b6ae7.chunk.js",
-    "main.js.map": "/HackAtDavidson/static/js/main.bc4b6ae7.chunk.js.map",
+    "main.css": "/HackAtDavidson/static/css/main.5a4bcc66.chunk.css",
+    "main.js": "/HackAtDavidson/static/js/main.eba4e1dc.chunk.js",
+    "main.js.map": "/HackAtDavidson/static/js/main.eba4e1dc.chunk.js.map",
     "runtime-main.js": "/HackAtDavidson/static/js/runtime-main.d0695085.js",
     "runtime-main.js.map": "/HackAtDavidson/static/js/runtime-main.d0695085.js.map",
     "static/js/2.b18b1911.chunk.js": "/HackAtDavidson/static/js/2.b18b1911.chunk.js",
     "static/js/2.b18b1911.chunk.js.map": "/HackAtDavidson/static/js/2.b18b1911.chunk.js.map",
     "index.html": "/HackAtDavidson/index.html",
-    "static/css/main.c4e4d545.chunk.css.map": "/HackAtDavidson/static/css/main.c4e4d545.chunk.css.map",
+    "static/css/main.5a4bcc66.chunk.css.map": "/HackAtDavidson/static/css/main.5a4bcc66.chunk.css.map",
     "static/js/2.b18b1911.chunk.js.LICENSE.txt": "/HackAtDavidson/static/js/2.b18b1911.chunk.js.LICENSE.txt",
     "static/media/Privacy policy.9854a808.pdf": "/HackAtDavidson/static/media/Privacy policy.9854a808.pdf",
     "static/media/Terms of use.c2255556.pdf": "/HackAtDavidson/static/media/Terms of use.c2255556.pdf",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.d0695085.js",
     "static/js/2.b18b1911.chunk.js",
-    "static/css/main.c4e4d545.chunk.css",
-    "static/js/main.bc4b6ae7.chunk.js"
+    "static/css/main.5a4bcc66.chunk.css",
+    "static/js/main.eba4e1dc.chunk.js"
   ]
 }
