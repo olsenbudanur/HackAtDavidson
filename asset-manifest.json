@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.5a4bcc66.chunk.css",
-    "main.js": "/static/js/main.1ee32b59.chunk.js",
-    "main.js.map": "/static/js/main.1ee32b59.chunk.js.map",
+    "main.js": "/static/js/main.a69fa8f2.chunk.js",
+    "main.js.map": "/static/js/main.a69fa8f2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ca225d40.js",
     "runtime-main.js.map": "/static/js/runtime-main.ca225d40.js.map",
     "static/js/2.96c855f6.chunk.js": "/static/js/2.96c855f6.chunk.js",
@@ -16,6 +16,7 @@
     "static/media/ccad-logo.60282d00.jpeg": "/static/media/ccad-logo.60282d00.jpeg",
     "static/media/davidson.3d8380e7.jpg": "/static/media/davidson.3d8380e7.jpg",
     "static/media/forest-systems.e1249d73.png": "/static/media/forest-systems.e1249d73.png",
+    "static/media/github.746ec8f0.png": "/static/media/github.746ec8f0.png",
     "static/media/ham-c.8ab7632d.svg": "/static/media/ham-c.8ab7632d.svg",
     "static/media/ham.a63ab4de.svg": "/static/media/ham.a63ab4de.svg",
     "static/media/hurthub.5744046c.jpg": "/static/media/hurthub.5744046c.jpg",
@@ -26,12 +27,14 @@
     "static/media/icons8-mail.650ff70b.svg": "/static/media/icons8-mail.650ff70b.svg",
     "static/media/launch.9a4f37b1.png": "/static/media/launch.9a4f37b1.png",
     "static/media/logoDavidson.2f42a164.png": "/static/media/logoDavidson.2f42a164.png",
-    "static/media/quoin.d5904fea.png": "/static/media/quoin.d5904fea.png"
+    "static/media/quoin.d5904fea.png": "/static/media/quoin.d5904fea.png",
+    "static/media/radixlogo.d37ef224.png": "/static/media/radixlogo.d37ef224.png",
+    "static/media/stackoverflow.a1c5f693.png": "/static/media/stackoverflow.a1c5f693.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ca225d40.js",
     "static/js/2.96c855f6.chunk.js",
     "static/css/main.5a4bcc66.chunk.css",
-    "static/js/main.1ee32b59.chunk.js"
+    "static/js/main.a69fa8f2.chunk.js"
   ]
 }
