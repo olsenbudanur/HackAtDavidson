@@ -23,7 +23,7 @@ const TOP_SECTION = {
   TITLE: 'Hack@Davidson',
   Typed_effect: ['Over $5,000 worth of prizes', '48 hours of creation'],
   SHORT_DESCRIPTION:
-    'Join us between 10 - 12th February 2023 for 48 hours of creation, innovation, & fun!',
+    'example change: Join us between 10 - 12th February 2023 for 48 hours of creation, innovation, & fun!',
   IMG_SRC: boy,
   DISCORD_LINK: '',
   HACKERS_REGISTRATION_FORM_LINK:
@@ -307,14 +307,14 @@ const frequentlyAskedQuestions = [
 ];
 
 export {
-  TOP_SECTION,
-  MIDDLE_SECTION,
-  SOCIALS,
   FOOTER,
+  MIDDLE_SECTION,
   Prizeinfo,
-  sponsorLogos,
+  SOCIALS,
+  TOP_SECTION,
   TeamInfo,
+  calenderStartingDate,
   frequentlyAskedQuestions,
   schedule,
-  calenderStartingDate
+  sponsorLogos
 };
