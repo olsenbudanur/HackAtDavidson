@@ -27,7 +27,7 @@ const TOP_SECTION = {
   TITLE: 'Hack@Davidson',
   Typed_effect: ['Over 2,000 worth of prizes', '48 hours of creation'],
   SHORT_DESCRIPTION:
-    'Join us between February 2nd - 4th, 2024 for 48 hours of creation, innovation, & fun!',
+    'Join us between February 2nd - 4th, 2024 for 48 hours of creation, innovation, & fun at The Hurt Hub!',
   IMG_SRC: boy,
   DISCORD_LINK: 'https://discord.gg/jStqwW4Ys8',
   HACKERS_REGISTRATION_FORM_LINK:
@@ -307,7 +307,7 @@ const frequentlyAskedQuestions = [
       {
         label: 'I have more questions?',
         content:
-          'Reach us directly at (hack@davidson.edu or olbudanur@davidson.edu) we would happy to help you.'
+          'Reach us directly at (hack@davidson.edu or @nimadavidson.edu) we would happy to help you.'
       },
       {
         label: 'Will there be swag?',
@@ -324,14 +324,14 @@ const frequentlyAskedQuestions = [
 ];
 
 export {
-  TOP_SECTION,
-  MIDDLE_SECTION,
-  SOCIALS,
   FOOTER,
+  MIDDLE_SECTION,
   Prizeinfo,
-  sponsorLogos,
+  SOCIALS,
+  TOP_SECTION,
   TeamInfo,
+  calenderStartingDate,
   frequentlyAskedQuestions,
   schedule,
-  calenderStartingDate
+  sponsorLogos
 };
