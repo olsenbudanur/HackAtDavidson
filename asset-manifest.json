@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.98ba34d1.chunk.css",
-    "main.js": "/static/js/main.e47fa1e1.chunk.js",
-    "main.js.map": "/static/js/main.e47fa1e1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3286f17a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3286f17a.js.map",
-    "static/js/2.71dab6c4.chunk.js": "/static/js/2.71dab6c4.chunk.js",
-    "static/js/2.71dab6c4.chunk.js.map": "/static/js/2.71dab6c4.chunk.js.map",
+    "main.css": "/static/css/main.6471c89f.chunk.css",
+    "main.js": "/static/js/main.e0f62824.chunk.js",
+    "main.js.map": "/static/js/main.e0f62824.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ca225d40.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ca225d40.js.map",
+    "static/js/2.5cc151cb.chunk.js": "/static/js/2.5cc151cb.chunk.js",
+    "static/js/2.5cc151cb.chunk.js.map": "/static/js/2.5cc151cb.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.98ba34d1.chunk.css.map": "/static/css/main.98ba34d1.chunk.css.map",
-    "static/js/2.71dab6c4.chunk.js.LICENSE.txt": "/static/js/2.71dab6c4.chunk.js.LICENSE.txt",
+    "static/css/main.6471c89f.chunk.css.map": "/static/css/main.6471c89f.chunk.css.map",
+    "static/js/2.5cc151cb.chunk.js.LICENSE.txt": "/static/js/2.5cc151cb.chunk.js.LICENSE.txt",
+    "static/media/Niya.f036d34c.jpg": "/static/media/Niya.f036d34c.jpg",
     "static/media/Privacy policy.9854a808.pdf": "/static/media/Privacy policy.9854a808.pdf",
+    "static/media/Sky.91d78f95.jpg": "/static/media/Sky.91d78f95.jpg",
     "static/media/Terms of use.c2255556.pdf": "/static/media/Terms of use.c2255556.pdf",
     "static/media/boy.9e16116b.png": "/static/media/boy.9e16116b.png",
     "static/media/ccad-logo.60282d00.jpeg": "/static/media/ccad-logo.60282d00.jpeg",
@@ -27,14 +29,16 @@
     "static/media/icons8-mail.650ff70b.svg": "/static/media/icons8-mail.650ff70b.svg",
     "static/media/launch.9a4f37b1.png": "/static/media/launch.9a4f37b1.png",
     "static/media/logoDavidson.2f42a164.png": "/static/media/logoDavidson.2f42a164.png",
+    "static/media/lorraine.94c320c4.jpg": "/static/media/lorraine.94c320c4.jpg",
     "static/media/quoin.d5904fea.png": "/static/media/quoin.d5904fea.png",
     "static/media/radixlogo.d37ef224.png": "/static/media/radixlogo.d37ef224.png",
-    "static/media/stackoverflow.a1c5f693.png": "/static/media/stackoverflow.a1c5f693.png"
+    "static/media/stackoverflow.a1c5f693.png": "/static/media/stackoverflow.a1c5f693.png",
+    "static/media/sunny.946eedfc.jpg": "/static/media/sunny.946eedfc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3286f17a.js",
-    "static/js/2.71dab6c4.chunk.js",
-    "static/css/main.98ba34d1.chunk.css",
-    "static/js/main.e47fa1e1.chunk.js"
+    "static/js/runtime-main.ca225d40.js",
+    "static/js/2.5cc151cb.chunk.js",
+    "static/css/main.6471c89f.chunk.css",
+    "static/js/main.e0f62824.chunk.js"
   ]
 }
