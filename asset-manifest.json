@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6471c89f.chunk.css",
-    "main.js": "/static/js/main.e0f62824.chunk.js",
-    "main.js.map": "/static/js/main.e0f62824.chunk.js.map",
+    "main.js": "/static/js/main.a7699276.chunk.js",
+    "main.js.map": "/static/js/main.a7699276.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ca225d40.js",
     "runtime-main.js.map": "/static/js/runtime-main.ca225d40.js.map",
     "static/js/2.5cc151cb.chunk.js": "/static/js/2.5cc151cb.chunk.js",
@@ -10,7 +10,7 @@
     "index.html": "/index.html",
     "static/css/main.6471c89f.chunk.css.map": "/static/css/main.6471c89f.chunk.css.map",
     "static/js/2.5cc151cb.chunk.js.LICENSE.txt": "/static/js/2.5cc151cb.chunk.js.LICENSE.txt",
-    "static/media/Niya.f036d34c.jpg": "/static/media/Niya.f036d34c.jpg",
+    "static/media/Niya.839eee20.jpg": "/static/media/Niya.839eee20.jpg",
     "static/media/Privacy policy.9854a808.pdf": "/static/media/Privacy policy.9854a808.pdf",
     "static/media/Sky.91d78f95.jpg": "/static/media/Sky.91d78f95.jpg",
     "static/media/Terms of use.c2255556.pdf": "/static/media/Terms of use.c2255556.pdf",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.ca225d40.js",
     "static/js/2.5cc151cb.chunk.js",
     "static/css/main.6471c89f.chunk.css",
-    "static/js/main.e0f62824.chunk.js"
+    "static/js/main.a7699276.chunk.js"
   ]
 }
