@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.431fb7b9.chunk.css",
-    "main.js": "/static/js/main.2f11ef7d.chunk.js",
-    "main.js.map": "/static/js/main.2f11ef7d.chunk.js.map",
+    "main.js": "/static/js/main.fc4975fa.chunk.js",
+    "main.js.map": "/static/js/main.fc4975fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ca225d40.js",
     "runtime-main.js.map": "/static/js/runtime-main.ca225d40.js.map",
     "static/js/2.5d0d2641.chunk.js": "/static/js/2.5d0d2641.chunk.js",
@@ -34,6 +34,7 @@
     "static/media/icons8-linkedin-2.524f8b6e.svg": "/static/media/icons8-linkedin-2.524f8b6e.svg",
     "static/media/icons8-mail.650ff70b.svg": "/static/media/icons8-mail.650ff70b.svg",
     "static/media/kintone.1ccd699a.png": "/static/media/kintone.1ccd699a.png",
+    "static/media/launchclt.318a7515.jpeg": "/static/media/launchclt.318a7515.jpeg",
     "static/media/lorraine.94c320c4.jpg": "/static/media/lorraine.94c320c4.jpg",
     "static/media/mlhlogo.a1089c64.png": "/static/media/mlhlogo.a1089c64.png",
     "static/media/nord.12a4a933.png": "/static/media/nord.12a4a933.png",
@@ -47,6 +48,6 @@
     "static/js/runtime-main.ca225d40.js",
     "static/js/2.5d0d2641.chunk.js",
     "static/css/main.431fb7b9.chunk.css",
-    "static/js/main.2f11ef7d.chunk.js"
+    "static/js/main.fc4975fa.chunk.js"
   ]
 }
