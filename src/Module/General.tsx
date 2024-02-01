@@ -390,7 +390,7 @@ const sponsorLogos = [
     },
     {
       src: launchclt,
-      link: ''
+      link: 'https://launchclt.org/'
     }
   ], //Array 2
   [
@@ -433,7 +433,7 @@ const sponsorLogos = [
     },
     {
       src: nord,
-      link: ''
+      link: 'https://incogni.com/'
     }
   ],
   [
